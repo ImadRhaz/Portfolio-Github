@@ -1,6 +1,10 @@
 /* Importer depuis fonts.google.com */
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&display=swap');
-
+@media (max-width: 767.98px) {
+  .navbar-brand img {
+    width: 30px; /* Vous pouvez ajuster cette valeur en fonction de la taille souhaitée */
+  }
+}
 
 /* L'utilisation de variables CSS personnalisées */
 :root {
